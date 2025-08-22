@@ -1,0 +1,54 @@
+{
+  "editions": [
+    {
+      "id": 1,
+      "title": "DTU Times - January 2025",
+      "date": "2025-01-15",
+      "description": "Welcome to the new year! This edition covers the latest campus events, student achievements, and upcoming opportunities.",
+      "coverImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=600&fit=crop",
+      "link": "https://dtutimes.edu.in/january-2025",
+      "category": "Monthly",
+      "pages": 24
+    },
+    {
+      "id": 2,
+      "title": "DTU Times - December 2024",
+      "date": "2024-12-20",
+      "description": "Year-end special featuring the best moments of 2024, student success stories, and holiday wishes.",
+      "coverImage": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400&h=600&fit=crop",
+      "link": "https://dtutimes.edu.in/december-2024",
+      "category": "Monthly",
+      "pages": 32
+    },
+    {
+      "id": 3,
+      "title": "DTU Times - November 2024",
+      "date": "2024-11-18",
+      "description": "Focus on innovation and research with special coverage of DTU's latest technological breakthroughs.",
+      "coverImage": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&h=600&fit=crop",
+      "link": "https://dtutimes.edu.in/november-2024",
+      "category": "Monthly",
+      "pages": 28
+    },
+    {
+      "id": 4,
+      "title": "DTU Times - October 2024",
+      "date": "2024-10-15",
+      "description": "Cultural festival special edition highlighting the diverse talents and creativity of DTU students.",
+      "coverImage": "https://images.unsplash.com/photo-1513151233558-d860c5398176?w=400&h=600&fit=crop",
+      "link": "https://dtutimes.edu.in/october-2024",
+      "category": "Monthly",
+      "pages": 36
+    },
+    {
+      "id": 5,
+      "title": "DTU Times - September 2024",
+      "date": "2024-09-20",
+      "description": "Back to campus edition featuring orientation programs, new facilities, and academic updates.",
+      "coverImage": "https://images.unsplash.com/photo-1523050854058-8df90110c9a1?w=400&h=600&fit=crop",
+      "link": "https://dtutimes.edu.in/september-2024",
+      "category": "Monthly",
+      "pages": 26
+    }
+  ]
+}
